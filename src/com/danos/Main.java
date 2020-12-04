@@ -47,6 +47,10 @@ import javax.swing.event.DocumentListener;
  * This time without the NB GUI Builder.
  *
  * // ISPC Country field
+ * // TODO Date and version of SANC file
+ * // TODO Date and version of ISPC file
+ * // TODO Add source ref to ITU-T in About
+ * // TODO SANC and ISPC files read as resources from jar
  * // TODO Wyszukiwanie nazwy SPC z bazy ITU-T
  * // TODO Wyszukiwanie danych kontaktowych dla SPC (źródła różne, CSV, URL, PDF)
  * // TODO Określić i zebrać źródła danych dla SPC (pliki, URL)
