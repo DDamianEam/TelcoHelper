@@ -565,7 +565,7 @@ public class Main implements ActionListener, DocumentListener, KeyListener {
             case "ABOUT":
                 JOptionPane.showMessageDialog(null,
                         "Telco Helper\nVersion 0.01\n(c) 2020 Damian Duda\n <damian.duda@orange.com>",
-                        "About Telco Helper",
+                        "Telco Helper",
                         JOptionPane.PLAIN_MESSAGE);
                 break;
             default: 
