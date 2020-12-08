@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018, Damian Duda
+ * Copyright (c) 2018, Damian Duda <damian.duda@gmail.com>
  * All rights reserved.
  *
  * Permission to use, copy, modify, and distribute this software for any
