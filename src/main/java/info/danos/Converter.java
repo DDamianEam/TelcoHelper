@@ -36,7 +36,7 @@ import java.util.Scanner;
  * DONE Rozważyć usunięcie reakcji na ChangeValue z InputFields.
  * TODO Możliwość realizacji jako klasa statyczna, bez instancjalizacji u klienta.
  * 
- * @author Damian Duda, damian.duda@orange.com
+ * @author Damian Duda, damian.duda@gmail.com
  */
 public class Converter {
     

@@ -40,7 +40,7 @@ import java.util.regex.Pattern;
  * 
  * TODO Dynamic iniitalization before class is used instead of static.
  * 
- * @author Damian Duda <damian.duda@orange.com>
+ * @author Damian Duda damian.duda@gmail.com
  */
 public class SancClass {
     

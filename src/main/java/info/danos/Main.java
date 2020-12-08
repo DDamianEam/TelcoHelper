@@ -68,7 +68,7 @@ import javax.swing.event.DocumentListener;
  * // TODO make labels, text fields private global
  * // TODO Swing invoke later, czy wtedy będzie można this w Listenerach?
  * 
- * @author Damian Duda <damian.duda@orange.com>
+ * @author Damian Duda damian.duda@gmail.com
  */
 public class Main implements ActionListener, DocumentListener, KeyListener {
     
@@ -563,7 +563,7 @@ public class Main implements ActionListener, DocumentListener, KeyListener {
                 break;
             case "ABOUT":
                 JOptionPane.showMessageDialog(null,
-                        "Telco Helper\nVersion 0.01\n(c) 2020 Damian Duda\n <damian.duda@orange.com>",
+                        "Telco Helper\nVersion 0.01\n(c) 2020 Damian Duda\n damian.duda@gmail.com",
                         "Telco Helper",
                         JOptionPane.PLAIN_MESSAGE);
                 break;
