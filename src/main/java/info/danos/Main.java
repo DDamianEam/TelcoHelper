@@ -176,11 +176,8 @@ public class Main implements ActionListener, DocumentListener, KeyListener {
         // System.setProperty("java.util.logging.SimpleFormatter.format", "%4$s: %5$s [%1$tc]%n");
         System.out.println("pr: " + System.getProperty("java.util.logging.SimpleFormatter.format"));
         
-        // TEST
-        logger.log(Level.INFO, "Applicaiton starting...");    
-        logger.log(Level.WARNING, "Applicaiton starting...");    
-        logger.log(Level.SEVERE, "Applicaiton starting...");    
-        // TEST END
+        logger.log(Level.INFO, "Application starting...");    
+
         
         // TODO finish initMainComponents
         initMainComponents();
