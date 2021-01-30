@@ -12,6 +12,8 @@ The TelcoHelper software is a tool to provide translation between different form
 
 This implementation uses Java Swing framework - this is very simple use case with static classes only.
 
+Happy converting!
+
 ## INSTRUCTIONS
 
 You need Maven to compile & build this project.
