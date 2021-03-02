@@ -68,7 +68,7 @@ import javax.swing.event.DocumentListener;
  * // TODO make labels, text fields private global
  * // TODO Swing invoke later, czy wtedy będzie można this w Listenerach?
  * 
- * @author Damian Duda damian.duda@gmail.com
+ * @author Damian Duda
  */
 public class Main implements ActionListener, DocumentListener, KeyListener {
     
