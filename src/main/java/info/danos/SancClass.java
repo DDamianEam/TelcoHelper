@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2020, Damian Duda <damian.duda@gmail.com>
+ * Copyright (c) 2020, Damian Duda
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -40,7 +40,7 @@ import java.util.regex.Pattern;
  * 
  * TODO Dynamic iniitalization before class is used instead of static.
  * 
- * @author Damian Duda damian.duda@gmail.com
+ * @author Damian Duda
  */
 public class SancClass {
     
