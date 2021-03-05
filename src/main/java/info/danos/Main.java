@@ -45,7 +45,7 @@ import javax.swing.event.DocumentListener;
  * This is another variation on SPC conversion.
  * This time without the NB GUI Builder.
  *
- * // ISPC Country field
+ * // TODO ISPC Country field
  * // TODO Date and version of SANC file
  * // TODO Date and version of ISPC file
  * // TODO Add source ref to ITU-T in About
@@ -560,7 +560,7 @@ public class Main implements ActionListener, DocumentListener, KeyListener {
                 break;
             case "ABOUT":
                 JOptionPane.showMessageDialog(null,
-                        "Telco Helper\nVersion 0.01\n(c) 2020 Damian Duda\n damian.duda@gmail.com",
+                        "Telco Helper\nVersion 0.01\n(c) 2020 Damian Duda",
                         "Telco Helper",
                         JOptionPane.PLAIN_MESSAGE);
                 break;
