@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018, Damian Duda <damian.duda@gmail.com>
+ * Copyright (c) 2018, Damian Duda
  * All rights reserved.
  *
  * Permission to use, copy, modify, and distribute this software for any
@@ -36,7 +36,7 @@ import java.util.Scanner;
  * DONE Rozważyć usunięcie reakcji na ChangeValue z InputFields.
  * TODO Możliwość realizacji jako klasa statyczna, bez instancjalizacji u klienta.
  * 
- * @author Damian Duda, damian.duda@gmail.com
+ * @author Damian Duda
  */
 public class Converter {
     

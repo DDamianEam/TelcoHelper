@@ -7,7 +7,7 @@ package info.danos;
 
 /**
  *
- * @author Damian Duda <damian.duda@orange.com>
+ * @author Damian Duda
  */
 public class TelcoHelper {
     
