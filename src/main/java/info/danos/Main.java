@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2020, Damian Duda <danos_p@poczta.onet.pl>
+ * Copyright (c) 2020, Damian Duda
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
